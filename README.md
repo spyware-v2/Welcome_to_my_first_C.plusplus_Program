@@ -1,2 +1,2 @@
 My First Program is a simple C++ program that calculates the sum of two numbers, 90 and 88, and displays the result with the phrase: 'ANJAYYY BENEER :)'. This program is intended to practice basic programming concepts, such as the use of variables, operators, and the output function (cout). It marks my first step into the world of coding."
-My First Program adalah program sederhana dalam C++ yang menghitung penjumlahan dua angka, yaitu 90 dan 88, lalu menampilkan hasilnya dengan kalimat : 'ANJAYYY BENEER :)'. Program ini ditujukan untuk melatih pemahaman dasar pemrograman, seperti penggunaan variabel, operator, dan fungsi output (cout). Sebagai langkah awal saya dalam memasuki dunia perkodingan.  terjemahkan ke dalam bahasa inggris akurat
+
