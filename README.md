@@ -1,4 +1,4 @@
-# Welcome to my very first C++ program repository! 🚀
+# Welcome to my first C++ program repository! 🚀
 
 ![alt text](https://github.com/Dull-Project/Welcome_to_my_first_C.plusplus_Program/blob/main/ss%20code.png?raw=true)
 
