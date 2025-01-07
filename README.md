@@ -2,6 +2,6 @@
 
 ![alt text](https://github.com/Dull-Project/Welcome_to_my_first_C.plusplus_Program/blob/main/ss%20code.png?raw=true)
 
-My First Program is a simple C++ program that calculates the sum of two numbers, 90 and 88, and displays the result with the phrase: 'ANJAYYY BENEER :)'. This program is intended to practice basic programming concepts, such as the use of variables, operators, and the output function (cout). It marks my first step into the world of coding."
+This is my first program, a simple program to add two numbers with a predetermined sum. ✨ Although it looks simple, this program holds a special place as my first step into the world of programming. 🖥️ It was incredibly enjoyable when I managed to understand how the code works. 😄 This program reflects my enthusiasm and curiosity to keep learning and growing in the field of technology. 🚀
 
 ### `Beginner`
